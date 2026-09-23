@@ -1,5 +1,9 @@
 # Predictive Maintenance Failure Classifier
 
+[![CI](https://github.com/Tansari2004/predictive-maintenance-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/Tansari2004/predictive-maintenance-classifier/actions/workflows/ci.yml)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A reproducible machine-learning case study using the UCI AI4I 2020 Predictive Maintenance dataset. The project focuses on the operational trade-off between catching failures and generating too many false alarms.
 
 ## Project question
